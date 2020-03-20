@@ -1,0 +1,23 @@
+[
+    {
+             "nama" : "Cecep",
+             "nrp" : "0607472",
+             "email": "cecep.solihin@mola.tv",
+             "jurusan" : "Kimia",
+             "idDosenWali" : 1
+    },
+    {
+             "nama" : "Solihin",
+             "nrp" : "060221",
+             "email": "solihin@mola.tv",
+             "jurusan" : "Teknik Informatika",
+             "idDosenWali" : 2
+    },
+    {
+             "nama" : "Yusup",
+             "nrp" : "0607456",
+             "email": "Yusup@mola.tv",
+             "jurusan" : "Teknik Komoputer",
+             "idDosenWali" : 3
+    }
+]
