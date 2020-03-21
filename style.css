@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    color: brown;
+}
+
+.judul {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#timer {
+    text-align: center;
+}
